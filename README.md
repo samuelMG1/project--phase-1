@@ -77,4 +77,5 @@ Trend Analysis: Analyzed trends over time to identify any significant changes in
 - Include various filters and interactive elements to allow stakeholders to explore the data dynamically.
 ## Thank You
 Thank you for your time and attention. If you have any questions, please feel free to ask.
-Name: samuel gathogo
+
+Name: Samuel Gathogo
