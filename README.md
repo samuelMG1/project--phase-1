@@ -31,5 +31,6 @@ The data for this project is sourced from the National Transportation Safety Boa
 
 ## Data Preprocessing
 1 .Handling Missing Values: Missing values were addressed by either imputing with appropriate statistics (mean, median) or removing records with excessive missing data.
+
 2. Data Aggregation: Data was aggregated to analyze trends over time, accident rates by aircraft type, and other relevant metrics.
 
