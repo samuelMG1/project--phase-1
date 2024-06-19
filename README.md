@@ -55,10 +55,8 @@ https://prod-uk-a.online.tableau.com/#/site/gathogosammy882d6659e9b/views/dashbo
 
 2. Data Aggregation: Data was aggregated to analyze trends over time, accident rates by aircraft type, and other relevant metrics.
 ## Summary Conclusions
-## Recommendation 
-Insights:
 Airplanes and helicopters  have higher risk scores, with Airplanes having the highest due to their accident rate and downtime despite their high fuel efficiency.
-Recommendations:
+### Recommendations:
 1. Investigate further reducing maintenance costs and downtime for Airplanes and helicopters.
 2. Consider additional safety measures for the airplane to mitigate their higher accident rates.
 ## Next Steps
