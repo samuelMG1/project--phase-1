@@ -54,20 +54,14 @@ https://prod-uk-a.online.tableau.com/#/site/gathogosammy882d6659e9b/views/dashbo
 1 .Handling Missing Values: Missing values were addressed by either imputing with appropriate statistics (mean, median) or removing records with excessive missing data.
 
 2. Data Aggregation: Data was aggregated to analyze trends over time, accident rates by aircraft type, and other relevant metrics.
-## summary Conclusions
+## Summary Conclusions
 ## Recommendation 
-1. Data Cleaning and Preparation:
-a) Handle Missing Values: Identified  and addressed missing values by either imputing them with appropriate statistics (mean, median, mode) or removing records with significant missing data.
-b) Data Aggregation: Aggregate the data by relevant dimensions such as year, accident severity, and aircraft type.
-2. Interactive Dashboard Development:
-a) Visualization Tools:
-   - Used tools like Tableau, Power BI, or a web-based solution (e.g., Plotly Dash) to create an interactive dashboard.
-b) User Interaction: Ensured the dashboard allows users to filter data by various dimensions (e.g., year, aircraft type, accident cause) to explore the data interactively.
-3. Insights and Analysis:
-
-Trend Analysis: Analyzed trends over time to identify any significant changes in the number and severity of accidents.
-4. Stakeholder Engagement
-  - Training and Support
+Insights:
+Airplanes and helicopters  have higher risk scores, with Airplanes having the highest due to their accident rate and downtime despite their high fuel efficiency.
+Recommendations:
+1. Adopt airplanes for operations due to their balanced risk factors. and the use of advanced mechanisms to maintain it
+2. Investigate further reducing maintenance costs and downtime for Airplanes and helicopters.
+3. Consider additional safety measures for the airplane to mitigate their higher accident rates.
 ## Next Steps
 * Data Preparation:
 
