@@ -33,7 +33,7 @@ The data for this project is sourced from the National Transportation Safety Boa
 9. PilotExperience: Experience level of the pilot (e.g., Total flight hours).
 10. CausalFactors: Factors contributing to the accident (e.g., Pilot error, Mechanical failure).
 ## Tableau dashboard:
-https://prod-uk-a.online.tableau.com/#/site/gathogosammy882d6659e9b/views/dashboard_pdf/Dashboard1?:iid=7
+https://prod-uk-a.online.tableau.com/#/site/gathogosammy882d6659e9b/views/dashboard_pdf/Dashboard1?:iid=9
 ## visulizations
 1.  graph showing trends of accidents
   -Before 1980, there were no aeroplanes.
