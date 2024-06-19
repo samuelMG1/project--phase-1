@@ -59,17 +59,11 @@ https://prod-uk-a.online.tableau.com/#/site/gathogosammy882d6659e9b/views/dashbo
 Insights:
 Airplanes and helicopters  have higher risk scores, with Airplanes having the highest due to their accident rate and downtime despite their high fuel efficiency.
 Recommendations:
-1. Adopt airplanes for operations due to their balanced risk factors. and the use of advanced mechanisms to maintain it
-2. Investigate further reducing maintenance costs and downtime for Airplanes and helicopters.
-3. Consider additional safety measures for the airplane to mitigate their higher accident rates.
+1. Investigate further reducing maintenance costs and downtime for Airplanes and helicopters.
+2. Consider additional safety measures for the airplane to mitigate their higher accident rates.
 ## Next Steps
-* Data Preparation:
-
--Clean and preprocess the dataset, addressing missing values and aggregating data as necessary.
--Conduct exploratory data analysis (EDA) to identify key patterns and insights.
-* Dashboard Development:
-- Design and develop the interactive dashboard using a suitable visualization tool.
-- Include various filters and interactive elements to allow stakeholders to explore the data dynamically.
+1. Consider Further Analysis and additional factors such as environmental impact and customer satisfaction in future analyses.
+2. Ongoing Review to  Set up a schedule for regular performance and risk reviews.
 ## Thank You
 Thank you for your time and attention. If you have any questions, please feel free to ask.
 
